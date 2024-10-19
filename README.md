@@ -9,12 +9,15 @@ Finalmente, para cerrar el programa, se debe hacer clic en el botón de salida "
 
 ### Conversión regular: 
 Se realizo una conversión de 500 dolares a colones, lo cual nos da el resultado esperado de 154110 colones.
+
 ![image](https://github.com/user-attachments/assets/743f0fa9-0411-482b-84cf-e6377625b938)
 
 ### Ingreso de un valor inválido:
 Se ingresaron letras (valores invalidos) para la comprobación del mensaje de error.
+
 ![image](https://github.com/user-attachments/assets/6e64d91b-d17b-46ec-aca4-7756af2496a5)
 
 ### Ventana emergente al cerrar la ventana:
 Se sale del programa para mostrar la ventana de salida.
+
 ![image](https://github.com/user-attachments/assets/3e435a70-1cde-430f-85f3-8508378f74b8)
